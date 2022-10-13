@@ -1,2 +1,2 @@
-#  SitePortfolio
-https://maksonaldo.github.io/site_portfolio/
+#  WebsitePortfolio
+https://maksonaldo.github.io/WebsitePortfolio/
